@@ -6,7 +6,7 @@
 运用HTML5语义化标签、CSS命名语义化进行设计，Jquery实现事件监听、处理，达到目的效果后再运用webpack将js进行模块化，进而使得代码结构更加清晰明了。
 ### 项目的主要构成部分
 - 排行TOP250的电影
-- 欧美电影
+- 欧美电影搜索
 - 电影搜索
 ### 豆瓣电影API接口地址
 [豆瓣API](https://developers.douban.com/wiki/?title=movie_v2)
